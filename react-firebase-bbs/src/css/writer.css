@@ -1,0 +1,14 @@
+section {
+  width: 60%;
+  margin-left: 20%;
+}
+input.input_writer {
+  width: 100%;
+  margin: 2px 0;
+}
+button.btn_save {
+  display: block;
+  margin: 2px 0;
+  background-color: blueviolet;
+  color: whitesmoke;
+}

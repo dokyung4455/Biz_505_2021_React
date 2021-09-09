@@ -2,14 +2,10 @@ import React from 'react'
 
 function Header() {
 	return (
-		<div>
-			<div>
+		<header className="main_head">
 				<h1>React BBS 2021</h1>
-			</div>
-			<div>
 				<p>React & Firebase BBS</p>
-			</div>
-		</div>
+		</header>
 	)
 }
 
