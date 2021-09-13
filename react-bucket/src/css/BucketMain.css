@@ -1,0 +1,14 @@
+table.tbl_BBsMain {
+  border: 1px solid red;
+  width: 100%;
+}
+tr.tbl_th {
+  border: 1px solid blue;
+}
+
+input.main_input {
+  margin-top: 15px;
+  padding: 10px 0px;
+  display: inline-block;
+  width: 90%;
+}

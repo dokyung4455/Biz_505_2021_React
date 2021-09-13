@@ -2,9 +2,9 @@ import React from 'react'
 
 function Footer() {
 	return (
-		<div>
-			
-		</div>
+		<footer>
+			<address>CopyRight &copy; dokyung4455@google.com</address>
+		</footer>
 	)
 }
 

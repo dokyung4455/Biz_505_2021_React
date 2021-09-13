@@ -17,6 +17,7 @@ function App() {
 		  <MainNav/>
 		  <Route path="/" component={BBsMain} exact />
         <Route path="/write" component={BBsWrite} exact />
+		<Route path="/write/:id" component={BBsWrite} exact />
         <Route path="/login" component={Login} exact />
         <Route path="/join" component={Join} />
     </div>
